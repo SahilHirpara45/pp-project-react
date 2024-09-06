@@ -1,0 +1,48 @@
+.published-rington-wrapper {
+  .filters {
+    .languages {
+      max-width: 500px;
+      width: 100%;
+    }
+
+    .search-bar {
+      max-width: 500px;
+      width: 100%;
+    }
+  }
+
+  .actions {
+    background-color: #2c2d30;
+  }
+
+  .rington-card-warpper {
+    background-color: #2c2d30;
+
+    .rington-container {
+      width: 250px;
+      height: 250px;
+      background: linear-gradient(180deg, #ee4985 0%, #1fd7ff 100%);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      img {
+        width: 63px;
+        height: 63px;
+      }
+    }
+
+    .discription {
+      ul li {
+        list-style: disc;
+      }
+
+      .card-selector {
+        .label {
+          max-width: 111px;
+          width: 100%;
+        }
+      }
+    }
+  }
+}

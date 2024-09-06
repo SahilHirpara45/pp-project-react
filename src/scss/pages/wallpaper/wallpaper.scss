@@ -1,0 +1,14 @@
+.wallpaper-wrapper {
+  .wallpaper-tabs {
+    background-color: #2e2e32;
+
+    .tab {
+      background-color: #292929;
+      border: 1px solid #555;
+    }
+
+    .tab.active {
+      background-color: #005e4d;
+    }
+  }
+}

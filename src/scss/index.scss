@@ -1,0 +1,11 @@
+//Common component scss files
+@import url("./common/buttonComponent.scss");
+
+//Component scss files
+@import url("./component/layout.scss");
+@import url("./component/wallpaper/publishWallpaper.scss");
+@import url("./component/rington/publishedRington.scss");
+@import url("./component/quotes/quotes.scss");
+
+//Pages scss files
+@import url("./pages/wallpaper/wallpaper.scss");

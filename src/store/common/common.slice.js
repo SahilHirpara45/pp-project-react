@@ -76,7 +76,7 @@ export const deleteLanguage = createAsyncThunk(
     };
     try {
       return await deleteData();
-    } catch {
+    } catch(error) {
       return error;
     }
   }
